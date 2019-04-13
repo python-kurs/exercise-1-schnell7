@@ -1,4 +1,4 @@
-# Exercise 2 - First steps with Python (3)
+# Exercise 1
 # Answers to questions that ask for non-code answers can simply be added as comments.
 
 # 1) The following line causes a SyntaxError. Please correct the line so that it's output is 'Hallo Welt!' [1P]
