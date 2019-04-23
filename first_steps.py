@@ -8,10 +8,9 @@ print(Hallo Welt!)
 a = 976.543
 b = 345
 
-# 3) Calculate the remainder of the division 100/17 by only using one operator and save the result in v_2 (maybe the internet can help you) [1P]
+# 3) Calculate the remainder of the division 100/17 by only using one operator and save the result in v_2 (look into the Python docs for help) [1P]
 
-# 4) The speed of light is about 300'000 km/s. What is the wavelength (in nanometers) of a light wave with a frequency of 5.0E+14 per second? Can we see this light? [4P]
-#    If you don't know how to convert frequencies to wavelengths, the internet can help you!
+# 4) The speed of light is about 300'000 km/s. Calculate the wavelength (in nanometers) of a light wave with a frequency of 5.0E+14 per second. Can we see this light? [4P]
 #    Save the result in v_3.
 
 # 5) Print the following string to the console using the format-function and the variables 'n' and 'pi': "Pi rounded to the first 10 decimals is: 3.1415926536" [2P]
